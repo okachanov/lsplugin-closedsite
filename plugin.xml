@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<plugin>
+	<name>
+		<lang name="default">Closed site</lang>
+		<lang name="russian">Улучшенный "Закрытый режим"</lang>
+	</name>
+	<author>
+		<lang name="default">Germis	</lang>
+	</author>
+	<homepage>http://vi.germis.name</homepage>
+	<version>1.0.0</version>
+	<requires>
+		<livestreet>0.4.2</livestreet>
+		<plugins>
+		</plugins>
+	</requires>
+	<description>
+		<lang name="default">The plugin allows you to specify individual pages that are visible to unregistered users.</lang>
+		<lang name="russian">Плагин позволяет указывать отдельные страницы, которые видны незалогиненным/незарегистрированным пользователям.</lang>
+	</description>
+</plugin>
